@@ -1,4 +1,4 @@
-# Local Kubernetes cluster (v1.25.4)
+# [Local Kubernetes cluster (v1.25.4)](../README.md)
 
 ## About
 
